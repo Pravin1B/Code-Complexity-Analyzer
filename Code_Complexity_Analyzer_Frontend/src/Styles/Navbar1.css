@@ -1,0 +1,10 @@
+.brand-text {
+    text-decoration: none; /* Remove underline */
+    color: white; /* Keep text visible on dark navbar */
+    font-size: 18px; /* Adjust size */
+    font-weight: bold; /* Make it bold */
+  }
+  
+  .brand-text:hover {
+    color: lightblue; /* Change color on hover */
+  }
